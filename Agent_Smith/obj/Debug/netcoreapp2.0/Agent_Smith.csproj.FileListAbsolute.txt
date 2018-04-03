@@ -1,0 +1,11 @@
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/bin/Debug/netcoreapp2.0/Agent_Smith.deps.json
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/bin/Debug/netcoreapp2.0/Agent_Smith.runtimeconfig.json
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/bin/Debug/netcoreapp2.0/Agent_Smith.runtimeconfig.dev.json
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/bin/Debug/netcoreapp2.0/Agent_Smith.dll
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/bin/Debug/netcoreapp2.0/Agent_Smith.pdb
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.csprojResolveAssemblyReference.cache
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.csproj.CoreCompileInputs.cache
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.AssemblyInfoInputs.cache
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.AssemblyInfo.cs
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.dll
+/Users/morganjweaver/Projects/Agent_Smith/Agent_Smith/obj/Debug/netcoreapp2.0/Agent_Smith.pdb
